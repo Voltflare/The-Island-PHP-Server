@@ -1,3 +1,4 @@
+
 /* Base */
 
 * {
@@ -218,7 +219,7 @@ a.button, input.button {
 }
 
 .button.prev:hover {
-	background: #494331;
+	background: #999791;
 	outline-color: #494331;
 }
 
@@ -278,7 +279,7 @@ input.button.next {
 /* Final example website */
 
 #final-example .wrapper {
-	width: 800px;
+	width: 1800px;
 	padding: 0;
 }
 
@@ -342,6 +343,11 @@ input.button.next {
 
 #final-example .column.three {
 	width: 203px;
+	margin-right: 45px;
+}
+
+#final-example .column.two {
+	width: 350px;
 	margin-right: 45px;
 }
 
@@ -432,3 +438,46 @@ input.button.next {
 	display: inline;
 	cursor: pointer;
 }
+
+
+/* 
+Other CSS Properties not from the original stylesheet
+*/
+
+  details {
+	user-select: none;
+  }
+  
+  details>summary span.icon {
+	width: 24px;
+	height: 24px;
+	transition: all 0.3s;
+	margin-left: auto;
+  }
+  
+  summary {
+	display: flex;
+	cursor: pointer;
+  }
+  
+  summary::-webkit-details-marker {
+	display: none;
+  }
+
+
+
+  .npccol {
+	margin-top: 50px;
+	float: left;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .playercol {
+	margin-top: 50px;
+	float: right;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }

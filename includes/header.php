@@ -2,7 +2,7 @@
     #If you want to frontload something to render immediately, its best to put it *here*
 
     #Variables:
-    $companyName = "Franklin's Fine Dining";
+    // $companyName = "Franklin's Fine Dining";
 
     #include dynamic array generation
     include('includes/arrays.php');
@@ -21,9 +21,7 @@
         <div class="wrapper">
 
             <div id="banner">
-                <a href="/" title="Return to Home">
                     <img src = "img/hype.png" alt="Hype!"/>
-                </a>
             </div>
 
             <div id="nav">
