@@ -10,9 +10,9 @@ include('includes/header.php');
 <div id="philosophy">
     <h1>The World in Detail:</h1>
     <p>The Island is home to a whole host of different locales and Pokemon. If you're ever unsure of what's where, this is the place to be.</p>
-    <hr>
 </div>
 
+<hr>
 <div class="cf">
     <?php 
         /*
@@ -32,7 +32,6 @@ include('includes/header.php');
         <?php } 
     ?>
 </div>
-
 <hr>
 
 
