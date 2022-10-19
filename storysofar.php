@@ -1,5 +1,7 @@
 <?php
 define("TITLE", "The Story So Far: The Island");
+define ("BANNER", "Calypso.jpg");
+define ("BANNER_ALT", "Calypso, Hope of the Island.");
 include('includes/header.php');
 ?>
 

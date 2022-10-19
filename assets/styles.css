@@ -319,6 +319,11 @@ input.button.next {
 	outline: solid 2px #8ca757;
 }
 
+#final-example #nav ul li a:visited {
+	background: #8ca757;
+	outline: solid 2px #8ca757;
+}
+
 #final-example #philosophy {
 	text-align: center;
 	font-size: 18px;
@@ -480,4 +485,10 @@ Other CSS Properties not from the original stylesheet
 	font-size: 18px;
 	line-height: 22px;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .location_dropdown {
+	float: left; 
+	text-align: center; 
+	margin-right: 30px;
   }

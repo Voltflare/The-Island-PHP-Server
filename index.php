@@ -1,11 +1,15 @@
 <?php
 define("TITLE", "Home: The Island");
+//These different headers are defined so that 'header.php' knows what image to load!
+define ("BANNER", "hype.png");
+define ("BANNER_ALT", "Hype!");
+
+
 include('includes/header.php');
 ?>
 
 <div id="philosophy">
-    <hr>
-    <h1>Welcome, traveller, to the Island!</h1>
+    <h1>Welcome, Traveller, to the Island!</h1>
     <p>An enigmatic island located off the coast of the Kanto Region- hidden to all those that are not welcome across its borders by a combination of mechanical and mystical forces and Pokemon. Or… at least, that’s what it used to be. Within the last century, the Pokemon there noticed a stark change in the Island’s utopian, partnering atmosphere. One day, these very Pokemon- even those contained within a Tamer’s Tamer Capsules, found themselves waking up in what appeared to be geographically identical to their home, but many wished this new reality they found was simply a malignant nightmare.</p>
 
     <p>You see, the Pokemon of the Island found themselves in an errant copy of the landmass they’d once called home. In this new, lawless age, there were no gods or guardians- no Deity to protect their Island nor her Guardian spirit Calypso to bolster their crops and protect their children- and scarily enough, <strong>no people</strong>, Tamers as they're called. Pokemon that had bonded with their beloved Tamers were ripped from this lifelong friendship by a very-real apparition so disgustingly abhorrent it could put Darkrai’s dreamtime machinations to shame. What was this place, and who was responsible? Nobody truly knew, not even the most well-versed and aged Pokemon, and there was no longer a Deity to stop it.</p>
