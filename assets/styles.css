@@ -334,11 +334,6 @@ input.button.next {
 	outline: solid 2px #8ca757;
 }
 
-#final-example #nav ul li a:visited {
-	background: #8ca757;
-	outline: solid 2px #8ca757;
-}
-
 #final-example #philosophy {
 	text-align: center;
 	font-size: 18px;
