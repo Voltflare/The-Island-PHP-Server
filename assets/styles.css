@@ -319,6 +319,21 @@ input.button.next {
 	outline: solid 2px #8ca757;
 }
 
+#final-example #nav ul li button {
+	display: block;
+	background: #353535;
+	outline: solid 2px #353535;
+	border: solid 2px white;
+	color: white;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+
+#final-example #nav ul li button:hover {
+	background: #8ca757;
+	outline: solid 2px #8ca757;
+}
+
 #final-example #nav ul li a:visited {
 	background: #8ca757;
 	outline: solid 2px #8ca757;
@@ -491,4 +506,14 @@ Other CSS Properties not from the original stylesheet
 	float: left; 
 	text-align: center; 
 	margin-right: 30px;
+  }
+
+  #final-example .wrapper #nav ul li button {
+		display: block;
+		background: #353535;
+		outline: solid 2px #353535;
+		border: solid 2px white;
+		color: white;
+		padding: 10px 15px;
+		text-decoration: none;
   }

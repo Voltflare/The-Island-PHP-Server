@@ -1,7 +1,7 @@
 <?php
 define("TITLE", "Home: The Island");
 //These different headers are defined so that 'header.php' knows what image to load!
-define ("BANNER", "hype.png");
+define ("BANNER", "img/hype.png");
 define ("BANNER_ALT", "Hype!");
 
 

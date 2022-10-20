@@ -1,6 +1,6 @@
 <?php
 define("TITLE", "Factions: The Island");
-define ("BANNER", "Prism_Stone_2.png");
+define ("BANNER", "img/Prism_Stone_2.png");
 define ("BANNER_ALT", "Kreuger's Prism Stone");
 
 include('includes/header.php');

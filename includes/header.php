@@ -21,7 +21,7 @@
         <div class="wrapper">
 
             <div id="banner">
-                    <img src = "img/<?php echo(BANNER) ?>" alt=<?php echo(BANNER_ALT) ?> width="100%" height="500px"/>
+                    <img src = "<?php echo(BANNER) ?>" alt=<?php echo(BANNER_ALT) ?> width="100%" height="500px"/>
             </div>
 
             <div id="nav">
