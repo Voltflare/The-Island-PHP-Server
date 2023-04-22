@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8e82224-19c2-4586-b1cf-4ef214da2f68/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/theislandpmd",
+    "appService.deploySubpath": "."
+}
