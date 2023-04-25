@@ -531,7 +531,9 @@ $landmarkSpots = array(
 
         "Route 8" => array(
             "map" => "img/Location Maps/Northern/Route 8.png",
-            "information" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra orci sagittis eu volutpat odio facilisis mauris sit. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Nunc sed blandit libero volutpat sed cras ornare. Diam ut venenatis tellus in. Sit amet purus gravida quis. Netus et malesuada fames ac turpis egestas maecenas. Habitant morbi tristique senectus et netus. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Arcu non sodales neque sodales ut etiam sit. Varius sit amet mattis vulputate enim nulla aliquet. Erat imperdiet sed euismod nisi porta lorem mollis aliquam ut. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Elementum integer enim neque volutpat ac tincidunt vitae semper. Ullamcorper velit sed ullamcorper morbi tincidunt. In nisl nisi scelerisque eu ultrices. Vitae tempus quam pellentesque nec nam aliquam sem et tortor. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Tortor dignissim convallis aenean et tortor at.",
+            "information" => "To the north of Route 6 lies a place that used to serve such a noble purpose, but like Berlie City, it has since been corrupted. The stretches of land from the Outpost to the wondrous city to the north, Techne, have not been. Out of all the parts of the Island, this stretch of land in particular is kept under lock and key by a group that swears allegiance to the Black Knight- and as such, they will forcibly remove anyone who they do not believe would be pleasing to their lord, should he ever arrive- blissfully unaware of the fact that he has, on occasion, shown up without their knowledge… just not as the “Black Knight” they expect to see. And so… these Followers of the Sword wait, and wait, and wait for a day that probably will never come, as their lord will never reveal his true visage to them.
+
+            <br> <br> To the north is the site of an old, abandoned warehouse that used to serve as the electrical communication point between the Cragrune Outpost, Techne, and Mizanite City. This place has also been turned into a private club of sorts- where those Followers can talk amongst themselves and enjoy just about any form of entertainment you could ask for. They’ve even got a few Exploud under their pay, so everyone from as far down as Alornue Town and Mizanite City can hear of their dreadful mirth.",
             "notableplaces" => array(
             )
         ),
@@ -540,9 +542,9 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/Northern/Techne.png",
             "information" => "The technological capital of the Island, Techne boasts feats that far surpass any technology featured elsewhere. However, these secrets have been lost to time, and Techne is now a shadow of its former self. No longer will raised roads connect pieces of the city with each other, no longer will generators whir…
 
-            <br> Like a sunken ship, no circuitry here is still operational and, despite the Followers’ best efforts, they have not been able to repair even a shred of Techne’s glory- and thus it remains: a shadow of its former self and buried in the grown like an ugly crater of gizmos and gadgets stuck in the ground and skyscrapers that now serve no purpose other than to stage private Follower meetings. Not even the artificial garden, which was said to last forever without any water, will bear fruit.
+            <br> <br> Like a sunken ship, no circuitry here is still operational and, despite the Followers’ best efforts, they have not been able to repair even a shred of Techne’s glory- and thus it remains: a shadow of its former self and buried in the grown like an ugly crater of gizmos and gadgets stuck in the ground and skyscrapers that now serve no purpose other than to stage private Follower meetings. Not even the artificial garden, which was said to last forever without any water, will bear fruit.
             
-            <br> Still, the place is just as abuzz as ever. Without the knowledge of Techne, the scraps of objects that once worked could now become scrap- melted down into who-knows what and given purpose to the Followers of the Sword. This “new” Techne was also the birth of a horrible tradition known as the 'metallic rebirth,' where one Follower would run another through with an iron-clad sword. That very same sword would eventually be melted down until one day, at least they hoped, that the screams of pain of each and every Pokemon “reborn” this way would eventually cause the Black Knight to take notice of them.",
+            <br> <br> Still, the place is just as abuzz as ever. Without the knowledge of Techne, the scraps of objects that once worked could now become scrap- melted down into who-knows what and given purpose to the Followers of the Sword. This “new” Techne was also the birth of a horrible tradition known as the 'metallic rebirth,' where one Follower would run another through with an iron-clad sword. That very same sword would eventually be melted down until one day, at least they hoped, that the screams of pain of each and every Pokemon “reborn” this way would eventually cause the Black Knight to take notice of them.",
             "notableplaces" => array(
             )
         ),
@@ -560,7 +562,7 @@ $landmarkSpots = array(
 
             Just like the Tamers who once lived there, their Pokemon took up the baton as the toughest, roughest ‘Mon’s out there. Mizanite City is also the base of the second-largest Guild, the Gallant Glyphs: while their headquarters are far underground- away from the Black Knight’s all-seeing eye- it’s not uncommon to see a few friendly scrapes to toughen up or rebel yells that sound a whole lot better than what comes out of Techne.
             
-            <br> Two statues used to adorn the middle of the rocky plaza, but have since lost their shape and shine due to age and having to take the brunt of one-too-many errant attacks and Moves. Sure, there’s some pretty good stone-mason Pokemon that live in Mizanite, but they just don’t look the same as the work of the master craftsmen that used to live there before all this chaos happened.",
+           <br> <br> Two statues used to adorn the middle of the rocky plaza, but have since lost their shape and shine due to age and having to take the brunt of one-too-many errant attacks and Moves. Sure, there’s some pretty good stone-mason Pokemon that live in Mizanite, but they just don’t look the same as the work of the master craftsmen that used to live there before all this chaos happened.",
             "notableplaces" => array(
                 array(
                     "name" => "Halvar's Mystery Shack",
@@ -580,7 +582,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/Northern/Mizanite Inlet.png",
             "information" => "To the east of Mizanite City is a long stretch of water- a combination of irrigation canals and the natural rivers that make up the Island’s lifeblood. Like the Mizanite brethren to their west, the aquatic Pokemon of the Inlet are of the 'rough’n’tough' (but not lethal) variety, which makes it almost a safe haven from the chaos of Berlie City and Techne.
 
-            <br> Two brother Poliwrath are typically always here clashing on the bridge for superiority, while various Pokemon gather to watch the fight. The fighting here is at least a nice change of pace- nothing like the blood, sweat, and tears that make up the brawls on Mizanite’s southern front- and neither brother holds the other responsible for any injuries. In fact, the two have often put aside their differences to teach other Pokemon the tools of the trade when it comes to keeping your head on your shoulders- as Matoya knows, you’ll need it when you’re this close to the chaotic Northern Wastelands.",
+           <br> <br> Two brother Poliwrath are typically always here clashing on the bridge for superiority, while various Pokemon gather to watch the fight. The fighting here is at least a nice change of pace- nothing like the blood, sweat, and tears that make up the brawls on Mizanite’s southern front- and neither brother holds the other responsible for any injuries. In fact, the two have often put aside their differences to teach other Pokemon the tools of the trade when it comes to keeping your head on your shoulders- as Matoya knows, you’ll need it when you’re this close to the chaotic Northern Wastelands.",
             "notableplaces" => array(
                 array(
                     "name" => "Poli Bros. Logging",
@@ -593,9 +595,9 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/Northern/Briesfall Town.png",
             "information" => "Briesfall Town is one of the Island’s two port cities- where typically any sort of seafaring travel is directed to- whether that be lone Pokemon or by Lapras. As opposed to its twin, Vicheranta City, Briesfall is much more laid-back and grassroots, valuing the time spent with friends and treating any travelers that land or venture there as family instead of competition.
 
-            <br> Most of its residents are also quite religious- and encourage others to do the same. You’ll very rarely see a large 'ship' dock or leave without its captain spending at least a few hours praying in the town’s northern pagoda for a safe keeping while abroad. 
+            <br> <br> Most of its residents are also quite religious- and encourage others to do the same. You’ll very rarely see a large 'ship' dock or leave without its captain spending at least a few hours praying in the town’s northern pagoda for a safe keeping while abroad. 
             
-            <br> The place is also viewed in a sacred light by some, and an abhorred one by others- as this town is the birthplace of the Slaking that you either love or despise as the one that gathered everyone of the Island at one point.",
+           <br>  <br> The place is also viewed in a sacred light by some, and an abhorred one by others- as this town is the birthplace of the Slaking that you either love or despise as the one that gathered everyone of the Island at one point.",
             "notableplaces" => array(
                 array(
                     "name" => "Briesfall Tower",
@@ -609,9 +611,9 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/Far Northern/Northern Wastelands.png",
             "information" => "The northern hills of Mizanite City protect the settlement from the desolateness and lonely nature of the land that lies above it. It is said that the Wasteland was originally a luscious, flower-filled landscape with flora and fauna found nowhere else. However, according to legend, one day, the Deity found her betrothed kissing another woman under a large tree found in the midwestern section of the area. Enraged, she cursed the land to no longer bear natural resources of any kind, and the Wasteland was given its name by travelers from Mizanite who used to frequent the area. 
 
-            <br> Beyond even the Northern Wasteland are the Far Northern Wastelands, a land so devoid of life that it is said the place connected straight to the Distortion World. That being said, some Pokemon seem to inhabit the area, but they’re… Not exactly what you would expect. Or, at least, that’s what the grapevine says.
+            <br> <br> Beyond even the Northern Wasteland are the Far Northern Wastelands, a land so devoid of life that it is said the place connected straight to the Distortion World. That being said, some Pokemon seem to inhabit the area, but they’re… Not exactly what you would expect. Or, at least, that’s what the grapevine says.
             
-            <br> The Followers would tell you that this is the place where the Black Knight trained his skill with a sword, but the Guild folk believe it to be a load of absolute hogwash. No single Pokemon, no matter how strong, walks into the far reaches of the Northern Wasteland and returns the same ‘Mon.",
+            <br> <br> The Followers would tell you that this is the place where the Black Knight trained his skill with a sword, but the Guild folk believe it to be a load of absolute hogwash. No single Pokemon, no matter how strong, walks into the far reaches of the Northern Wasteland and returns the same ‘Mon.",
             "notableplaces" => array(
             )
         ),
@@ -639,7 +641,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Western/Route 5.png",
             "information" => "A small Route that connects Berlie City to Alornue Town, it has unfortunately suffered the same fate as Route 3- a haven for thrill-seekers and questionable Pokemon coming and going from Berlie City. Every night, there’s a lone Zoroark that comes atop the small cliff there to entertain the Pokemon that can stomach living in the area. Maybe she feels bad?
 
-            <br> Nobody really knows, but she hasn’t been apprehended or heckled for it, so maybe it’s for the best.",
+            <br> <br> Nobody really knows, but she hasn’t been apprehended or heckled for it, so maybe it’s for the best.",
             "notableplaces" => array(
             )
         ),
@@ -655,9 +657,9 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Western/Route 9.png",
             "information" => "Directly south of Berlie City is a rather somber and compact grassland, contrasted with the large scale of the city that serves as its northern flank. It leads to a large field that serves as a graveyard for all the people and Pokemon that have died due to any given natural disaster since its inception many decades ago. As such, the Route has a bit more of a 'spooky' atmosphere to it- almost like you are being watched.
 
-            <br> And if you look closely at the grass, or at the trees, or the bushes, you might find a few pairs of red eyes staring back at you. But don’t worry! The Ghosts here aren’t gonna harm you- they just want to play a few pranks! Despite that lighthearted nature, the Pokemon here are anything but jovial rockheads- led by a Dusknoir named by Morgana Le Fae, they’ve actually had to stop their parties a few times to come deal with the incessant nonsense from up north. It’s said that Morgana has sometimes even made deals with The Doer to accomplish what was asked of them in exchange for more foot travel to spook.
+            <br> <br> And if you look closely at the grass, or at the trees, or the bushes, you might find a few pairs of red eyes staring back at you. But don’t worry! The Ghosts here aren’t gonna harm you- they just want to play a few pranks! Despite that lighthearted nature, the Pokemon here are anything but jovial rockheads- led by a Dusknoir named by Morgana Le Fae, they’ve actually had to stop their parties a few times to come deal with the incessant nonsense from up north. It’s said that Morgana has sometimes even made deals with The Doer to accomplish what was asked of them in exchange for more foot travel to spook.
             
-            <br> One interesting fact- the Zoroark that commonly hangs out around Route 5 is actually from Morgana’s 'Grim Troupe'- the best of the best when it comes to getting you to wet your nonexistent pants in fright.",
+            <br> <br> One interesting fact- the Zoroark that commonly hangs out around Route 5 is actually from Morgana’s 'Grim Troupe'- the best of the best when it comes to getting you to wet your nonexistent pants in fright.",
             "notableplaces" => array(
                 array(
                     "name" => "The Grim Troupe's Main Stage",
@@ -670,7 +672,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Western/Field of Ages.png",
             "information" => "Named for its purpose and preserved by an unseen power, this graveyard holds the resting souls of hundreds of different people and Pokemon that gave their life for the Island. That being said, the place isn’t as depressing as you’d expect. A mystical force permits these spirits to walk the area, and many of them have a strong sense of humor. After all, they’ve had plenty of time to hone it! Of course, those without a strong sense of focus may lose their way and collapse of fright, but the friendly spirits are kind enough to help you out, should that happen. Some say the place is a personal favorite of the Deity’s, but she hasn’t ever appeared herself to affirm that.
 
-            <br> Without Calypso's or the Deity's watchful eye, however, the Spirits that typically cover the area have grown malicious and contemptuous. Unlike Morgana and her Grim Troupe, these spirits will attack anyone and anything that enters the graveyard on sight- and most Pokemon will heed this warning and steer clear. However, the Berries and resources that stem from the Via Matoya are invaluable to some- and those Pokemon believe that staking their lives against some angry spirits is worth the taste of a Starf Berry.",
+            <br> <br> Without Calypso's or the Deity's watchful eye, however, the Spirits that typically cover the area have grown malicious and contemptuous. Unlike Morgana and her Grim Troupe, these spirits will attack anyone and anything that enters the graveyard on sight- and most Pokemon will heed this warning and steer clear. However, the Berries and resources that stem from the Via Matoya are invaluable to some- and those Pokemon believe that staking their lives against some angry spirits is worth the taste of a Starf Berry.",
             "notableplaces" => array(
             )
         ),
@@ -687,7 +689,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Eastern/Route 1.png",
             "information" => "The first Route that most new Tamers used to see, this place houses a breezy atmosphere, coupled with relatively-tame wildlife and people, that welcomes each and every passing person on their journey. While the west leads towards the rustic Vertum Town, the east connects to a water Route, for those that have a penchant for swimming. Also contained within the Route is a cave that used to be the site of a geyser that has since gone inactive. 
 
-            <br> Route 1 typically sees a lot of foot traffic, simply because it is at the junction before the Amber Outpost, which tends to be a trading haven for merchants due to it being a safe area for doing so.",
+            <br> <br> Route 1 typically sees a lot of foot traffic, simply because it is at the junction before the Amber Outpost, which tends to be a trading haven for merchants due to it being a safe area for doing so.",
             "notableplaces" => array(
             )
         ),
@@ -718,7 +720,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Eastern/Vertum Town.png",
             "information" => "A down-to-earth religious town, rumor has it that this town is where the Deity, herself, was born and raised. As such, her presence was traditionally honored with a large statue and a shrine that was effortlessly cared for by the town’s locals. Even with the humans gone, this town’s beauty is held to a high standard by the many religious Pokemon who can stay here without being extorted by those with de-aspiring views. These Pokemon believe that the only way they could return to their human companions is to effortlessly search for the Deity’s presence, and thus keep the place welcome to.  Also situated in Vertum Town was the Island’s first Dojo- which since became a 'police station' of sorts for the Pokemon who want to keep Vertum Town the way it is. You typically don’t want to mess with angry church-goers, and with the fact that their main article of praise, the high church of Berlie, has been desecrated, they have nowhere left to go and would thus defend Vertum with their lives.
 
-            <br> Notable residents include Marlon, a Machamp who prides himself on his ability to break up any fight put before him; Anastasia, a Hatterene who can commonly be seen in the wee hours of the night polishing and protecting the statue and shrine in the middle; and Motorboard, a Rotom that, provided with a lawn mower to operate, works under Anastasia to keep Vertum up to her lofty standard.",
+            <br> <br> Notable residents include Marlon, a Machamp who prides himself on his ability to break up any fight put before him; Anastasia, a Hatterene who can commonly be seen in the wee hours of the night polishing and protecting the statue and shrine in the middle; and Motorboard, a Rotom that, provided with a lawn mower to operate, works under Anastasia to keep Vertum up to her lofty standard.",
             "notableplaces" => array(
                 array(
                     "name" => "Vertum Dojo",
@@ -760,7 +762,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Eastern/Route 3.png",
             "information" => "The last hurdle a beginning Tamer needed to overcome before reaching Berlie City, this Route features a ground path riddled with tall grass, and a mountainous cliff-face that’s often considered a popular training spot.
 
-            <br> Even without Tamers to guide them, there’s definitely quite a few Pokemon who make their home here: thrill-seekers, all of them. The adrenaline junkies tend to want to exist near Berlie City due to its newfound affinity towards crime attracting all sorts of Pokemon- some who want to fight at the drop of a pin, and some who are offering to give “prospecting” Pokemon a little 'help' with an illegal job or two.",
+            <br> <br> Even without Tamers to guide them, there’s definitely quite a few Pokemon who make their home here: thrill-seekers, all of them. The adrenaline junkies tend to want to exist near Berlie City due to its newfound affinity towards crime attracting all sorts of Pokemon- some who want to fight at the drop of a pin, and some who are offering to give “prospecting” Pokemon a little 'help' with an illegal job or two.",
             "notableplaces" => array(
             )
         ),
@@ -784,7 +786,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/Far Southern/Amber Outpost.png",
             "information" => "A small, quaint 'town' by the water’s edge. This place is widely considered a 'safe zone' where Pokemon from all over the Island can join together in harmony- everyone from the far reaches of the Northern Wastelands to the proximal town of Vertum is welcome here. Several Pokemon who call themselves the Crusaders help to keep the peace in the area- but unlike the fabled Knighted Mafia, crossing the Crusaders doesn’t typically end in death, and most of them are fairly personable, too. In the presence of humans, the Outpost was also the site of an annual Festival for the Deity, when the water reflected the sun’s rays in such a way to give the place its namesake of 'amber.'
 
-            <br> The Outpost is also home to the ruins of Professor Hensley’s laboratory, and while the place has been ransacked by bandits long ago, this makes his books and research quite barterable resources- as they are essentially non-reproducible. There is also a port here, but it has not been used in quite some time.",
+            <br> <br> The Outpost is also home to the ruins of Professor Hensley’s laboratory, and while the place has been ransacked by bandits long ago, this makes his books and research quite barterable resources- as they are essentially non-reproducible. There is also a port here, but it has not been used in quite some time.",
             "notableplaces" => array(
                 array(
                     "name" => "Professor Hensley's Lab",
@@ -814,7 +816,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/Far Southern/Route 11.png",
             "information" => "A route through the jungle that used to connect Tamers to the natural, untamed habitat of Pokemon, Route 11 is a wilderness of both possibilities and adventure. As the terrain is rather harsh for most to trek through, the path through has been cleared enough to pass through to the Tamer's Reproach with relative ease, though there are rumors of conniving Pokemon hiding out deep in the jungle, plotting something...
 
-            But, hey, that could all just be hearsay!",
+           <br> <br> But, hey, that could all just be hearsay!",
             "notableplaces" => array(
             )
         ),

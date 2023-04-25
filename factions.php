@@ -96,21 +96,23 @@ include('includes/header.php');
     <h3>Other Factions:</h3>
     <h5>The Crusaders:</h5>
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus rutrum. Elementum eu facilisis sed odio morbi. Velit scelerisque in dictum non consectetur. Mollis nunc sed id semper risus in hendrerit gravida. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Pulvinar mattis nunc sed blandit libero volutpat sed. Pulvinar pellentesque habitant morbi tristique. Et pharetra pharetra massa massa. Sit amet venenatis urna cursus eget nunc.
+    An impromptu disaster relief and police force started by one young Jolteon and a couple friends of his ten or so years ago, the Crusaders are a group of Pokemon that protect the southern reaches of the Island- particularly preserving the peaceful atmosphere of the Amber Outpost for the sake of Pokemon that do not wish to find themselves in the middle of the fighting between the Guilds and Followers that inundate the rest of the Island.
 
-    <br><br>Malesuada fames ac turpis egestas sed tempus urna et. Phasellus vestibulum lorem sed risus ultricies. Et sollicitudin ac orci phasellus egestas. Eleifend quam adipiscing vitae proin. Lobortis feugiat vivamus at augue eget arcu dictum. Amet consectetur adipiscing elit pellentesque habitant morbi. Viverra adipiscing at in tellus integer. Lacus vestibulum sed arcu non. Nisl nisi scelerisque eu ultrices vitae auctor. Pretium fusce id velit ut.
+    <br> <br> Any Pokemon is welcome to join the Crusaders, though, in recent memory,
     </p>
     <h5>The Arija Tribe:</h5>
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus rutrum. Elementum eu facilisis sed odio morbi. Velit scelerisque in dictum non consectetur. Mollis nunc sed id semper risus in hendrerit gravida. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Pulvinar mattis nunc sed blandit libero volutpat sed. Pulvinar pellentesque habitant morbi tristique. Et pharetra pharetra massa massa. Sit amet venenatis urna cursus eget nunc.
-
-    <br><br>Malesuada fames ac turpis egestas sed tempus urna et. Phasellus vestibulum lorem sed risus ultricies. Et sollicitudin ac orci phasellus egestas. Eleifend quam adipiscing vitae proin. Lobortis feugiat vivamus at augue eget arcu dictum. Amet consectetur adipiscing elit pellentesque habitant morbi. Viverra adipiscing at in tellus integer. Lacus vestibulum sed arcu non. Nisl nisi scelerisque eu ultrices vitae auctor. Pretium fusce id velit ut.
+    The previous settlers of the Island guarded quite a large sum of secrets. The Arija Tribe lived in the southern jungles of the Island as the protectors to a sacred piece of land known as the Medu Tierra, protecting the floating peaceful paradise from anyone who was not deemed thusly pure-of-heart by the village's Guardian, Najn Tierra, and offering a safe refuge from woes gained from the northern parts of the Island.
+    
+    <br> <br> With both Tamers and Najn Tierra out of the picture, though, the Pokemon left behind by the former Arijas still continue their duty of guarding Medu Tierra and preserving the sanctity of the jungle. Led by the Arija chieftain's Delphox, Ares, these Island natives tend to live their own little life within the mighty jungle, praying and working tirelessly so that, one day, a solution to all the natural disasters will come.
     </p>
     <h5>The Demon Slayers:</h5>
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus rutrum. Elementum eu facilisis sed odio morbi. Velit scelerisque in dictum non consectetur. Mollis nunc sed id semper risus in hendrerit gravida. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Pulvinar mattis nunc sed blandit libero volutpat sed. Pulvinar pellentesque habitant morbi tristique. Et pharetra pharetra massa massa. Sit amet venenatis urna cursus eget nunc.
+    The fabled Demon Slayers are what most would consider the 'stuff of legends'- war-grizzled, veteran Pokemon who could toss you across the room just as soon as look at you. Led by Aurelius, the Blackened, the Demon Slayers were formed to combat the ever-present influence of dead Pokemon's resurgences appearing all over the place, now that the Field of Ages no longer properly preserves the Essence of Spirits, leading them to eventually succumb to their former life's desires and turn on the living as terrifying Fiends.
 
-    <br><br>Malesuada fames ac turpis egestas sed tempus urna et. Phasellus vestibulum lorem sed risus ultricies. Et sollicitudin ac orci phasellus egestas. Eleifend quam adipiscing vitae proin. Lobortis feugiat vivamus at augue eget arcu dictum. Amet consectetur adipiscing elit pellentesque habitant morbi. Viverra adipiscing at in tellus integer. Lacus vestibulum sed arcu non. Nisl nisi scelerisque eu ultrices vitae auctor. Pretium fusce id velit ut.
+    <br> <br> To some, the Demon Slayers are heroes- taking on invisible foes that most can't even hope to scratch and protecting civilians from being ripped to shreds by vengeful revenants. To some, they are a nuisance, putting their own interest in hunting Fiends over literally anything else and using the title of 'Fiend' to designate anyone they think is a problem. And to others, the Demon Slayers are just Pokemon that feel like getting their hands dirty.
+
+    <br> <br> Make no mistake, though. They take their job very seriously, and it's not often you find a Slayer out and about, off the clock and enjoying themselves. Hard-knock life, eh?
     </p>
 
     <hr>
@@ -128,9 +130,7 @@ include('includes/header.php');
     </div>
 
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus rutrum. Elementum eu facilisis sed odio morbi. Velit scelerisque in dictum non consectetur. Mollis nunc sed id semper risus in hendrerit gravida. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Pulvinar mattis nunc sed blandit libero volutpat sed. Pulvinar pellentesque habitant morbi tristique. Et pharetra pharetra massa massa. Sit amet venenatis urna cursus eget nunc.
-
-    <br><br>Malesuada fames ac turpis egestas sed tempus urna et. Phasellus vestibulum lorem sed risus ultricies. Et sollicitudin ac orci phasellus egestas. Eleifend quam adipiscing vitae proin. Lobortis feugiat vivamus at augue eget arcu dictum. Amet consectetur adipiscing elit pellentesque habitant morbi. Viverra adipiscing at in tellus integer. Lacus vestibulum sed arcu non. Nisl nisi scelerisque eu ultrices vitae auctor. Pretium fusce id velit ut.
+    There might as well be enough civillian Pokemon to be their own faction, given those that don't subscribe to any group, ideology, or pursuit and just want to live their lives to the best of their abilities number a good thirty-to-forty-percent of the Island's current population. Impressive numbers, given how pervasive conflicts such as the Guilds and Followers, or disaster relief in groups like the Crusaders, are!
     </p>
 
     <div id="civpictures" class="cf">
