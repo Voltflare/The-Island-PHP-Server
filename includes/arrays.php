@@ -241,7 +241,162 @@ $storiesSoFar = array(
 
                 <br> <br> That was where they needed to go, it seemed, and after a few judgment calls to gauge depth (which wasn’t all that much of a drop- barely ten feet, if that), everyone heads inside- with enough gusto to even inspire the terrified Amawrys to join them.
 
-                <br <br> <b> The rest of the tale will come soon... </b>
+                <br <br> The drop down wasn't all that bad- maybe a dozen feet of rough terrain, tops, but it wasn't anything that really messed with anyone, especially with Hallow helping everyone safely down. The ground below was made of hardened clay and stone- what you'd expect to be in such a place- but it was *uncharacteristically cold*. Maybe not as freezer-level-cold as the ethereal shenanigans that had afflicted the sleepers, earlier that night, but it certainly was no brisk jaunt through the sand anymore. Nothing but cold, hard, rock- and the serenade of a chorus of Minecraft zombie noises.
+
+                <br> <br> The tunnel branched out into a small square room, about the size of a small garage. To the group's immediate left was a long hallway- like, even the little bit of light filtering in from where they entered could not hope to penetrate it. To the north was a smaller passage, narrow enough that the larger Pokemon in the ground would have a rough time meandering through. There, though, their light at least gave them something to go off of- a small dias of carved stones, neatly arranged and cast together in some sort of fashion.
+
+                <br> <br> Hallow was quick to think this wasn’t exactly natural. Caves could form, sure, but this place didn’t seem to make spatial *or* natural sense. Ayden, ever the quick thinker, equips the group with torchlight that he hands off to Nina, while she and Cass sped forward through the narrow passageway to investigate the dias- finding a single mangled word in the process- the last of an inscription lost to time: <i>_om_de</i>. After some deliberating, Cass suggested a few different words it could mean- one of which was ‘comrade’.
+
+                <br> <br> In the meantime, Ayden stayed back to comfort Amawrys, who, while compelled to follow them down into the hole, took only a few steps before beginning to panic. No mental breakdowns, yet, but she was certainly already on the edge of one. But… she also couldn’t bring herself to leave and abandon the party, either. Choices…
+
+                <br> <br> With the power of Phantom Force and Myo as an anchor, the tree could soon follow right along with the rest of the group- while the Milotic crammed her face in the narrow passageway to watch, without daring to actually enter. 
+
+                <br> <br>The rest of the room had a few more tunnels and passages, one of which looked like a bird’s nest and another that bore water. Nina, as the smallest ‘Mon there, went to investigate the smallest opening- that led into a set of small rooms and connecting, cramped tunnels lit only by torchlight. The group soon split up to investigate.
+
+                <br> <br> Myo checks on the ‘bird’s nest’ and finds an abandoned Pokemon Egg, snug waaaaay down there. Good thing the Furret was literally part noodle and had no problem snaking his way in to get at it, right? Perhaps Myo was a dad in his past life or something, the way he handled Egg retrieval.
+
+                <br> <br> Meanwhile, Cass checks the water-bound northern exit, only for her Keen Eyes to catch a trail of *Poke* scattered not too far from a bed of water more still than a painting. Being a Sneasel, she was drawn to pick it up, but the water seemed to really not like that- springing to life and hissing and gurgling. Something was certainly in the water- **and it definitely noticed she was there.** Daring to advance, the water suddenly heaved up something- an Umbreon, of all things, beaten and swollen to a bloody pulp and seemingly barely clinging to life. But, it didn’t seem like the mysterious water was done!
+
+                <br> <br> Finally, Hallow just waited and listened- and waited and listened- until someone or something tapped him on the shoulder. Figuring he had the attention of whatever was controlling this place, he tries to communicate- for a half-formed mental image of some kind of Pokemon to show up in his mind. Amawrys, to nobody’s surprise, was scared stiff of this, as Hallow started talking to nobody at all…
+
+                <br> <br> Then, the water caught everyone’s (well, but Nina- she was too far in mouse tunnel heck for that) attention, and it became a mad dash to go figure out what in the world was going on. While Hallow and Cassandra stood guard, the Umbreon finally responded: … *by coughing up a pile of blood right in front of them.* That couldn’t exactly be healthy.
+
+                <br> <br> It seemed that everyone had moved through that narrow passage in one way or another to investigate- plenty of things to do, between Myo learning to rob eggs, Nina stumbling into Ronald Mc Donalds Playhouse of Fuck, and an Umbreon having such a morose skill issue that you could put him in a Resident Evil game and it would look normal.
+
+                <br> <br> Everyone **except** Amawrys, who watched what little she could with the widened fear of a Deerling in the headlights. She didn't speak, nor say a word- especially after she saw Hallow reappear further inside. The Milotic had, by now, steeled herself about enough to actually follow them- until the same lack-of-stimuli that afflicted the Trevenant came to her, too. And then, something must have caught her attention, because, with one last glance towards the rest of the group through her little viewport, the Milotic was off into the westward darkness.
+
+                <br> <br> Fortunately, it wasn’t long before Myo decided to check on Amawrys- only to find her missing. Just great- the Pokemon they were doing this all for had just vanished? Then, he caught a glimpse of her tail snaking its way into the darkness and darted after it. He called after her, but it was like nobody heard him- neither Amawrys nor the rest of the group.
+
+                <br> <br> But, he soldiered on- and as his eyes adjusted to the darkness, he could see more and more of the Milotic. A straight path, a set of turns here and there, it all blurs into ‘look its Amawrys' tail, poking out of the darkness.’ And, finally, when it started to seem like he wasn’t getting any closer to finding her, Amawrys comes completely into view- scared to bits when she realizes that both of them have exactly no idea where they are, lost in the labyrinth under the ground.
+
+                <br> <br> This took a while, though, so while the two noodles reunited, Hallow had also begun his chase into the darkness looking for them. This time, there was no Amawrys tail to chase, but it seemed that Spirit’s force he was talking with earlier was on his side- as every time he took a wrong path, he was unceremoniously corrected until he found them. 
+
+                <br> <br> That room, however, appeared to hold a lot more secrets to it, as the Trevenant could notice that same green glow only he could see along the walls, as well as odd markings that ran along them to match. Unfortunately, nobody could glean anything from said markings- which certainly didn’t help Amawrys’ one single nerve ending a bit. After some more *obviously very careful* thought and planning regarding the markings’ meanings, Amawrys slammed her tail into the wall in an attempt to make them do something. However, that just broke the glow, entirely- so now, not even Hallow could see what in the world was going on. 
+
+                <br> <br> Also, Nina eventually figured out what else lived in the tiny tunnels when she came to a fork in the road that turned into another tunnel full of chittering that she did not want any part of whatever satanic creature there was making. However, she also wasn’t exactly the best with directions- and once those noises started to invade her, she found herself right at the edge of a large drop. So, like any responsible adventure, she shines her torch over the gap to see what was down there- *only to be greeted by a couple dozen pairs of blood red eyes and the source of the chittering noises.* Turns out, Nina had found her way into part of a Durant nest. And they weren’t exactly happy about the presence of a fiery torch.
+
+                <br> <br> So, while she started shouting and crawling back through those tunnels for her literal life, Ayden and Cass worked on stabilizing the Umbreon. Thankfully, the Breloom was easily strong enough to lift an emaciated, bloodied body around like a sack of flour- and it got the rest of that part of their group away from whatever was going on with the water, *even though it stopped completely once they left*, as if it could react to the presence of Pokemon. The Breloom also had a decent bit of experience with Herbs and Berries, given he was a farmer- and the Sneasel was great with the cold, perfect for slowing down the gushing of blood and icing swollen areas. So, between the two, they could stabilize him, force a Berry or two down his throat, watch him, and wait.
+
+                <br> <br> That was when Nina’s bloodcurdling scream of a voice came out of her tunnel, and Cass jumped to try to widen the hole so they could get in after her. Arceus only knows what kind of fresh hell was there. Ayden, too, jumped in on the attempt, but that was only going to do so much.
+
+                <br> <br> Thankfully, the Espurr came flying out of the tunnel a minute later like she’d been fired from a tennis ball machine. Un-thankfully, she came bearing news of what she’d found- an entire colony of Durant that she had now pissed the hell off by looking at them funny with a torch. In the ensuing commotion of what in the world to do, with the clock against them, their newfound Umbreon friend finally musters a few words, urging them to be quiet.
+
+                <br> <br> That being said, Ayden was also an expert at dealing with these things and chucked an entire cluster of Seed Bombs into the tunnel- that very handily did exactly that. Probably wouldn’t slow down a bunch of tunnel-diggers for very long, but those extra few seconds were very precious, indeed. So, with those, the three rounded up the Umbreon, and the Egg Myo found, and beat a very quick retreat back up and out of the tunnel- and back to the surface. Half their group was still down there, sure, but Ayden reasoned it was unlikely the ants were going to go looking for them if they stayed put.
+
+                <br> <br> And so, the split-second decision was made- Ayden stayed put and wanted to care for the Umbreon and that Egg on the surface, while the impulsive Nina dragged Cass into the western darkness once more- to look for the others- narrowly missing the wall of ants that flooded into the entrance afterwards.
+
+                <br> <br> <hr>
+
+                <br> <br> <i> Ayden and the Umbreon: </i>
+
+                <br> <br> Back up top and out of harm’s way, the Umbreon finally was able to muscle out another couple words. And, the Egg was fine, to boot- no signs of damage or anything from the mad dash away from the Durant. With time to spare, he asks the Umbreon what in the world had happened- what led to the Pokemon getting thrown out of the mysterious water pool all bloodied and bruised.
+
+                <br> <br> He claimed that he had woken up a couple hours ago, down there in that cave- to be similarly assaulted by the terrifying ambiance everyone else was familiar with. It was then that, looking for a way out, this shadowy thing found him and ran him through with its claws before disposing of what could be logically construed as a dead body in the nearby pool of water. The only thing he truly remembers from the encounter, besides a lot of pain, was the figure’s bright green eye. After a little bit more back-and-forth, the Umbreon also introduces himself as Osiris- or, at least, that’s what the shadowy figure addressed him by. He didn’t really remember all that much before waking up in that cave to begin with.
+
+                <br> <br> As Osiris continues to struggle through the tale- and to even get a drink of water in him- Ayden surveys the area *just* in case there was something else, there. Amawrys said the place was pretty much empty, but those Durant may still be agitated- and if they found their way up top…
+
+                <br> <br> Unfortunately, the ants were still *crawling* the place, looking for them. Fortunately, they didn’t seem smart enough to take the westward tunnel and ambush the rest of their group. *Un*fortunately, they also weren’t leaving the entryway- which meant said group, whenever they returned, would be in for a rude surprise.
+
+                <br> <br> The air was starting to get colder, so he decides to start a fire to help out Osiris and the newfound Egg, which the Umbreon had started to take a liking to. Seems he was an alright guy, after all, doing what he could to look after the other defenseless ‘Mon there.
+
+                <br> <br> Of course, this would certainly piss off the Durant- just ask Nina how quickly they responded to fire- so Ayden eventually elects to take a smoldering branch and stretch his arm down there with it in an attempt to shoo the ants off. One of them gets a *little* too close and pretty much gets cooked alive in an instant, which sends the rest of them into a frenzy.
+
+                <br> <br> The sounds of Ayden’s machinations were enough to rouse the Umbreon to hobble over and check on it- only to command the Breloom to stand back, before loosing a Fire-Type Hidden Power straight into the heart of them- a fireball aimed with as much strength as he could put behind it. This gave Ayden enough time to lob a couple more burning sticks down there, and the combined assault was enough to fully ward off the ants. Angry and vengeful bitches they may be, none particularly wanted to trifle with the burning sticks and Fire-Type energy. And, with the path cleared, Ayden set Osiris back up by the fire and the Egg again, before heading down into the cave to find the others.
+
+                <br> <br> <hr>
+
+                <br> <br> While Ayden and the Umbreon started and played a game of Ant Tower Defense, that left the others still staring at runes in total darkness. Myo tried to be helpful and loose a bolt of Thunder (or two, or three, or-) to give the group a little bit of light and get their bearings, though it really just ended up flash-banging everyone a couple times. However, as it is decided that they need to turn around and find the rest of the group, Amawrys chances a glance backwards and goes totally pale. There was some sort of shadowy figure standing *right behind the Trevenant*- and Hallow sure whirled around at lightning speed to meet it. Even as Thunder’s light faded, he could still see it- a mess of shadows heralded by one detail- a singular, green eye. A Spirit? A Ghost? He wasn’t sure, so the term ‘phantom’ seemed to be the most appropriate. But, when the tree raised his claws to attack, the figure simply moved them back to his side.
+
+                <br> <br> This was a problem. As Hallow, himself, put it: ‘The other two couldn’t see the threat at all – and the Milotic was on the verge of ‘breaking’ ever since this ordeal started. As things were, if something didn’t change, they would be playing this phantom’s own game.’
+
+                <br> <br> So, he tried again- raising one arm and expecting the mysterious phantom to do the same. And, when it did, his other arm came up to forcibly grab it. An otherworldly chill ran through the Elder Tree Pokemon in an instant, and the room faded from his vision- replaced with torchlight of the same area. **Nina’s** torchlight. It seemed the pair of cats had made it to the same room, but at the same time, not.
+
+                <br> <br> The ‘phantom’ looked in the cats’ direction in this alternate reality of a room, and that was enough for Hallow to consider it a threat. His hand lit up as he attempted to siphon the phantom’s energy, but all that managed to do was force more of the chill into him.
+
+                <br> <br> Calling Amawrys to healing duty and Myo to support was about all he had time to do, before the phantom retaliated by firing an entire shotgun of Dark energy into the Trevenant that very nearly cripples him in an instant. This thing, whatever it was, was *not* playing games. And Hallow was not about to let it get away.
+                
+                <br> <br> The phantom addresses his efforts- a dull, grating voice like a war-grizzled grandpa’s vocal chords run through a cheese grater, and Hallow very quickly understood what was going on. These two rooms seemed to be overlapped, and this phantom was the bridge between the two of them. So, while he got Myo into position to help out- and the Milotic doing her best to keep the group afloat with Life Dew- Hallow’s voice came to Nina.
+
+                <br> <br> She looked towards the sound, only to find the shadowy phantom in all of its torchlit glory and freak out. *There* was most likely their source of all of this- the one pulling all the strings in the tunnel, and quite possibly everything else along with it. Might even be responsible for the Umbreon’s injuries, too.
+
+                <br> <br> Another visitor from another room showed up to the party- an Oranguru with the blankest expression known to ‘Monkind. Almost like it was possessed or something. So, when the monkey responded to Cass’ accusations with Psychic Terrain and a green flame appearing over its head, the pair of cats knew it had to go.
+
+                <br> <br> Meanwhile, Hallow and Myo kept right on with the pressure. The Trevenant sent an Earthquake through the surroundings, and the Furret came down with an Iron Tail, only to be caught mid-charge *by the neck*.
+
+                <br> <br> And, oh boy, the phantom certainly enjoyed that, turning to watch Hallow’s reaction while Myo struggled in its grip, before pointing and rippling an Expanding Force throughout the arena that assaulted everyone there- except for Nina and Cass. Even the monkey wasn’t safe, torn into by an unseen force.
+
+                <br> <br> In the cats’ confusion, the green flame had moved to Nina- and she could now see everything going on with Hallow and friends- the Earthquake, the phantom force-choking Myo, and Amawrys absolutely losing it and screaming as loud as she could at the phantom- hey, Disarming Voice is a thing. And, between that, Myo’s attempt at an Iron Tail, and the Earthquake running a train through everything, the phantom’s shadowy frame started to fizzle and flicker.
+
+                <br> <br> Speaking of Earthquakes, they still had an Oranguru to deal with- one that attempted to Instruct the phantom, though nothing happened. Then, when Hallow warped the dimensions even further with his Trick Room, the monkey decided the best course of action was taking out its frustration on the two cats with its own Earthquake.
+
+                <br> <br> Unfortunately, all the fighting was very quickly too much for their resident Milotic- who, after taking the brunt of a couple combined Earthquakes, fell still and Fainted. One down. Hopefully not any more to go- though given how much Myo was getting the breath ripped out of him, that may come sooner rather than later.
+
+                <br> <br> Fortunately for the group fighting on two fronts, Cass and Nina now had an ally to help them out- as the loud buzzing of wings weaponized itself into a blast of energy that joined itself with the cats’ reprisal on the monkey to fell the Pokemon as quickly as it appeared. Nina could see who their new ally was, too- a Ledian, clad in a tightly-knit blue scarf and radiating a faint green energy- though the Espurr wasn’t too keen on trusting the new ‘friend?’ immediately after everything they’d gone through today so far.
+
+                <br> <br> The Ledian introduces himself as Comrade- the denizen of this Cove- and his glowy appearance as how Pokemon perceive Spirits, if they can even see them at all, that is. He reveals he was the one trying to talk to Hallow this entire time- those mental images and voices were his doing.
+
+                <br> <br> But, one success did not change the outcome of the rest of the battle. Fortunately, they’d discovered another trick of the phantom’s- as their part of the group had heard Nina and Cass’ fighting. Perhaps the phantom could only attack those that could perceive it?
+                It was a gamble, sure, but it was about all he had left. So, he let go- just as he was slammed in the chest by another Dark Pulse that sent him reeling and out of this world.
+
+                <br> <br> The phantom moved to stand over Hallow’s defeated body, before chucking Myo right on top of him and disappearing with one last chilling remark: **’I would finish you, here, but I have learned all I require.’
+
+                <br> <br> And with the phantom’s disappearance, the moans and screams that perpetuated the cavern disappeared; the ambient chill started to fade a little bit; and the two ‘versions’ of the same room seemed to merge together- reuniting both groups together as one again. This, of course, also let Nina and Cass and their new friend Comrade move to help!- because all of Hallow, Myo, and Amawrys had seen better days.
+
+                <br> <br> First things first, the Ledian used Sunny Day in an attempt to help the plant out, but that quickly turned to worry when ‘he could not feel Hallow’s Essence.’ Myo comes to after his brief concussion from being chucked across the room, pretty soon after, and is grateful that the threat was gone, but still wildly confused. After all, *he can’t see Comrade and can only hear his voice.*
+
+                <br> <br> As the group attempts to lick their wounds, the cats learn just a little bit more about Essence from the Ledian: ‘Essence makes up all life on this Island. We Spirits are quite sensitive to it, like moths to a flame. Typically, when a Pokemon dies, their Essence is released back into the earth, and they become what we call a Spirit. But…’ he frowns, scratching his head.
+
+                <br> <br> ‘I don't believe I've ever seen a Pokemon who both appears alive and bereft of Essence. *You all are the first*- so, truthfully, if he is like the rest of you, my guess is as good as anyone else's whether your tree friend will make it or not.’ The only one who appeared to have this ‘Essence’ in them was Amawrys. Interesting…
+
+                <br> <br> A couple more minutes and proverbial bandages later, Hallow eventually comes to again- still ready to throw hands with the phantom, only for it to be entirely gone. Comrade also didn’t seem to know what it was they’d fought- as he’d only come on the tail end of that clash.
+
+                <br> <br> Hallow reveals to the others what he learned- its affinity for ice, but also Dark Pulses strong enough to rip through even him like butter and a surprising amount of resistance to Earthquakes to it. Not like any Ice-Type Pokemon he’d ever met. Nina starts listing off every detail she could remember about this mysterious phantom that they saw- 
+
+                <br> <br> Until a familiar voice comes in from behind them. It was Ayden, clad with a couple torches and probably smelling like smoking Durant. Great to have some more support, in case something else was down here- but also great to have access to more Berries and supplies to help the near-defeated group! Time to get back to the surface- talking could be done after they weren’t in the potential striking range of more subterranean horrors.
+
+                <br> <br> <b> So, back on the surface… </b>
+
+                <br> <br> Time spent healing was time spent asking questions- and the question of the day was still the identity of this phantom anomaly. First things first, the group explained everything that happened to Comrade (plus or minus a couple more confused comments about talking to nothing if someone couldn’t see him), just in case the Ledian, in all of his Spirit-y ways, could piece something together that the rest of them couldn’t. The whole Durant fiasco confused him- given they were ‘quite peaceable.’
+
+                <br> <br> It was around this time that Amawrys also came to, and it took her a moment to process that the infernal noise was gone, the weird phantom thing was gone, and they were back up on the surface. Hallow fills her in on what happened after she went unconscious during their fight against the phantom, before finally asking her about Osiris. Amawrys had said she was alone in the Cove, but the Milotic did not know who he was.
+
+                <br> <br>  *‘I thought I was the only Pokemon on this island, too... No Umbreon, no Durant, and especially no spirits... I'd... I don't think I would have stayed if I knew a spirit dwelt here, too.’*
+
+                <br> <br> The subject of Spirits also comes up, since a group of non-Islanders was certainly not familiar with them. Comrade explains that all life on this Island is made of Essence. When Pokemon are alive, that Essence is a part of them; when they die, they retain a fraction of it as a Spirit. And, inevitably, Spirits lose their way and give in to the feelings they carried with them upon death- becoming a ‘Fiend’- a mindless revenant with the goal of killing anyone and anything near it. There was no way to predict how long the transformation would take, and there was no way to stop it from happening- though there did exist Pokemon who prided themselves on hunting these Fiends that called themselves the Demon Slayers. 
+
+                <br> <br> But, the ramifications of this whole process was something Hallow was very quick to pick up on, as Comrade was essentially admitting that, in an unspecified amount of time, he would become one of those ‘mindless revenants’. And, if Amawrys chose to stay on the Cove, there would come a day where she would be attacked by a zombie-mode Ledian.
+
+                <br> <br> It was likely that the phantom the group fought was also one of these Fiends. This was why Amawrys could remain on the Cove, by herself, for so long- as it wasn’t causing problems until recently, when it became a Fiend. And, if it took *all of them* to take one down, the timid Milotic who almost had a heart attack no less than fifty times during all of that would stand absolutely no chance. That left her a choice- abandon the Cove (and Comrade) to an unavoidable fate, or stay and risk death at the hands of a Fiend-to-be. And that wasn’t a choice she had the willpower to make.
+
+                <br> <br> Cassandra and Nina express interest in the prospect of kicking ass with a Demon Slayer or two- imagining them as these grizzled war veterans that can go toe-to-toe with the kind of ‘Pokemon’ they just had to fight and wanting to train enough to join their ranks and help out more Pokemon like Amawrys. Seeing the Milotic break down in tears over it just planted the idea all the more strongly. Maybe Halvar would know about how to find them?
+
+                <br> <br> After an attempt from several group members to convince Amawrys to leave her home tearfully succeeds, everyone loads their boat back- a little bit more cramped than before, given that they now had Osiris and an Egg to add to the mix- and says their final goodbyes to the area. Nina did promise to one day return, though, and beat the fucking shit out of whatever Fiends were there as a proper Demon Slayer, one day. 
+
+                <br> <br> *For Amawrys.*
+
+                <br> <br> …
+
+                <br> <br> The returning trip to Vicheranta (and ultimately, Mizanite to go see Halvar) went as perfect as it could, and the walrus was all-the-more-happy to see the group step back into his shack. But, that didn’t last long- everyone looked pretty darn beat up and mangled, they had an Umbreon with them, and Amawrys looked like she wanted to stop living. Hallow explains everything to him- from the Cove’s ‘haunting’, the Umbreon, the Fiend they encountered, the Durant- everything. But, when he references the idea of re-surfacing a mission to the Cove to the Demon Slayers, Halvar at first ignores it for the rest of the tale. They *did* do a spectacular job, though- and even saved a couple extra lives in there, to boot. He offers to make living arrangements for Amawrys- which, while it’s no Cove, is better than going back to town, something that the Milotic is adamant that she does not want to do- and Osiris, who was similarly fine with not ending up on the streets without a home.
+
+                <br> <br> After that long-winded explanation, the Trevenant does reveal he needs to get back to tending his plants for the fall harvest, which prompts the walrus to reward them extremely handsomely for their work: *‘Help yourselves, I ain't gonna be stingy when you're savin' lives.’*
+
+                <br> <br> During this, Cassandra asks once again about the Demon Slayers, to which Halvar gives her *that look*- of a teacher summoning you for after-class somethings or other. 
+
+                <br> <br> So, after everyone picks up their rewards and leaves to go do who-knows-what, Cass and Nina stay behind to express their interest in the Demon Slayers again. Halvar, however, is very not interested in the idea, dismissing them as fanatical lunatics hungry for the thrill instead of actually protecting Pokemon. Nothing noble about a thrill-seeker pretending to be the Robin Hood of dead Pokemon.
+
+                <br> <br> The two, however, are undeterred, and Nina’s sheer stubbornness about her situation, about what she believed the Slayers to be, and about the Island in general eventually convinces the old walrus to talk a little bit more. That tenacity reminded him of when he was younger, and how much he regretted being only focused on wanderlust. But, he would honor that window back into his own life by giving her what the pair wanted- an audience with the Slayers.
+
+                <br> <br> Halvar gives them a small gold coin with a red angel’s wind emblazoned into its surface, instructing them to head to Berlie City’s most popular bar, Burlyn’s, and ask for a Pokemon named Aurelius. He eventually leaves them to their own devices, and the two make plans to visit Berlie in the near future and track down their membership with these illustrious Slayers.
+
+                <br> <br> <hr>
+
+
+
+
+
+
+
+                <hr>
 
 
 
