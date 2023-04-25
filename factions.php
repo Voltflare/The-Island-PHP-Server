@@ -98,7 +98,7 @@ include('includes/header.php');
     <p>
     An impromptu disaster relief and police force started by one young Jolteon and a couple friends of his ten or so years ago, the Crusaders are a group of Pokemon that protect the southern reaches of the Island- particularly preserving the peaceful atmosphere of the Amber Outpost for the sake of Pokemon that do not wish to find themselves in the middle of the fighting between the Guilds and Followers that inundate the rest of the Island.
 
-    <br> <br> Any Pokemon is welcome to join the Crusaders, though, in recent memory,
+    <br> <br> Any Pokemon is welcome to join the Crusaders- and their ranks grow just a little bit more each and every day- a beacon of hope that life isn't always gloom and doom on the Island!
     </p>
     <h5>The Arija Tribe:</h5>
     <p>
