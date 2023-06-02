@@ -414,7 +414,9 @@ $storiesSoFar = array(
                 "npcs" => array(
                     "Halvar the Walrein", "Ernesto the Slowbro", "Velos the Victini", "Jezebel the Dragonite"
                 ),
-                "synopsis" => "This summary is brought to you by none other than Lizzy, retelling the story to another Guild Pokemon: 'It is a rather long story, pertaining to a short mission I volunteered for outside the guild; I, along with a small group, was to attempt to locate a Slowbro that had supposedly been lost inside the Water-type Tamer Grotto.'
+                "synopsis" => "This summary is brought to you by none other than Lizzy, retelling the story to another Guild Pokemon: 
+                
+<br> <br> 'It is a rather long story, pertaining to a short mission I volunteered for outside the guild; I, along with a small group, was to attempt to locate a Slowbro that had supposedly been lost inside the Water-type Tamer Grotto.'
 
 <br> <br> Earlier today, approximately two hours ago, I visited the residence of Halvar the Walrein to participate in a mission he presented. I, along with three others, were to search the Water-type Tamer Grotto for a supposedly lost Slowbro, by the name of Ernesto. Alongside me were Aster, a Dragon-type Sylveon and Crusader, Verdant, a Grass-type Absol and member of the Bastion of Marble, and Ayden, a Breloom and Follower of the Sword - however, the final one mentioned departed shortly after the mission began after speaking with one of the Grotto's residents.
 
@@ -432,9 +434,9 @@ Regardless, as I said, the two Pokemon were engaged in head-to-head combat. Whil
 
 <br> <br> While this was the most notable event to occur, shortly after we proceeded did our group discover a series of stones with some type of cuneiform carved into them, in groups of a pattern of two and three. I was unable to recognize whatever language was inscribed, but a significant amount is recorded and can be transcribed onto paper at any time. Notably, this room also held a dense fog which had not been seen elsewhere by us in the Grotto.
 
-<br> <br> And, finally, it was at this point we encountered the Slowbro we were searching for, whose name I mentioned to be Ernesto. From here, we exited Grotto the way we came, with little of note occurring. Ernesto did, however, tell us of a pair of entirely red eyes he saw in the room where we had encountered Jezebel and Velos. Although it was not relevant at the time we were there nor when he told us, there were what appeared to be a great number of type-shifted Litwick in this room as well.
+<br> <br> And, finally, it was at this point we encountered the Slowbro we were searching for, whose name I mentioned to be Ernesto. From here, we exited the Grotto the way we came, with little of note occurring. Ernesto did, however, tell us of a pair of entirely red eyes he saw in the room where we had encountered Jezebel and Velos. Although it was not relevant at the time we were there nor when he told us, there were what appeared to be a great number of type-shifted Litwick in this room as well.
 
-<br> <br> And thus, that effectively concludes the occurrences in the Water-type Grotto."
+<br> <br> And thus, that effectively concludes the occurrences in the Water-type Grotto.'"
             ),
 
             array(
