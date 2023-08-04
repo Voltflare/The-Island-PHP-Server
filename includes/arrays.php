@@ -740,7 +740,7 @@ $landmarkSpots = array(
             "map" => "img/Location Maps/South Eastern/Vertum Town.png",
             "information" => "A down-to-earth religious town, rumor has it that this town is where the Deity, herself, was born and raised. As such, her presence was traditionally honored with a large statue and a shrine that was effortlessly cared for by the town’s locals. Even with the humans gone, this town’s beauty is held to a high standard by the many religious Pokemon who can stay here without being extorted by those with de-aspiring views. These Pokemon believe that the only way they could return to their human companions is to effortlessly search for the Deity’s presence, and thus keep the place welcome to.  Also situated in Vertum Town was the Island’s first Dojo- which since became a 'police station' of sorts for the Pokemon who want to keep Vertum Town the way it is. You typically don’t want to mess with angry church-goers, and with the fact that their main article of praise, the high church of Berlie, has been desecrated, they have nowhere left to go and would thus defend Vertum with their lives.
 
-            <br> <br> Notable residents include Marlon, a Machamp who prides himself on his ability to break up any fight put before him; Anastasia, a Hatterene who can commonly be seen in the wee hours of the night polishing and protecting the statue and shrine in the middle; and Motorboard, a Rotom that, provided with a lawn mower to operate, works under Anastasia to keep Vertum up to her lofty standard.",
+            <br> <br> Notable residents include Marlon, a Machamp who prides himself on his ability to break up any fight put before him; Athena, a Hatterene who can commonly be seen in the wee hours of the night polishing and protecting the statue and shrine in the middle; and Motorboard, a Rotom that, provided with a lawn mower to operate, works under Athena to keep Vertum up to her lofty standard.",
             "notableplaces" => array(
                 array(
                     "name" => "Vertum Dojo",
@@ -748,7 +748,7 @@ $landmarkSpots = array(
                 ),
 
                 array(
-                    "name" => "Anastasia's Weavery",
+                    "name" => "Athena's Weavery",
                     "info" => "Born of a desire to make the world look pretty, a Hatterene named Anastasia runs a boutique out of Vertum in her quest to keep the town and everyone in it adhereing to her impossible standards. She is sometimes assisted in this regard by Motorboard, a Rotom that helps her maintain the grass around town and around her shop."
                 ),
 
@@ -759,6 +759,11 @@ $landmarkSpots = array(
 
                 array(
                     "name" => "Jolanda's Forge",
+                    "info" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra orci sagittis eu volutpat odio facilisis mauris sit. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Nunc sed blandit libero volutpat sed cras ornare. Diam ut venenatis tellus in. Sit amet purus gravida quis. Netus et malesuada fames ac turpis egestas maecenas. Habitant morbi tristique senectus et netus. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Arcu non sodales neque sodales ut etiam sit. Varius sit amet mattis vulputate enim nulla aliquet. Erat imperdiet sed euismod nisi porta lorem mollis aliquam ut. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Elementum integer enim neque volutpat ac tincidunt vitae semper. Ullamcorper velit sed ullamcorper morbi tincidunt. In nisl nisi scelerisque eu ultrices. Vitae tempus quam pellentesque nec nam aliquam sem et tortor. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Tortor dignissim convallis aenean et tortor at."
+                ),
+
+                array(
+                    "name" => "Vertum's Wings",
                     "info" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra orci sagittis eu volutpat odio facilisis mauris sit. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Nunc sed blandit libero volutpat sed cras ornare. Diam ut venenatis tellus in. Sit amet purus gravida quis. Netus et malesuada fames ac turpis egestas maecenas. Habitant morbi tristique senectus et netus. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Arcu non sodales neque sodales ut etiam sit. Varius sit amet mattis vulputate enim nulla aliquet. Erat imperdiet sed euismod nisi porta lorem mollis aliquam ut. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Elementum integer enim neque volutpat ac tincidunt vitae semper. Ullamcorper velit sed ullamcorper morbi tincidunt. In nisl nisi scelerisque eu ultrices. Vitae tempus quam pellentesque nec nam aliquam sem et tortor. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Tortor dignissim convallis aenean et tortor at."
                 )
             )
